@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Petite touche de polish */
+html, body, #__next {
+  height: 100%;
+}
+
